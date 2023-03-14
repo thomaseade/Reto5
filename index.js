@@ -1,5 +1,7 @@
-
-
+ function suma(op1, op2, op3) {
+  return op1 + op2 + op3;
+ }
+ 
  function resta(op1, op2) {
     return op1 - op2;
   }
